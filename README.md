@@ -11,8 +11,8 @@ My journey in technology and cybersecurity has fueled my passion for protecting 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Drafting a professional statement          | [Google Cybersecurity](https://docs.google.com/document/d/1MeqQcYOal5y2KWErJWOEpPgvLi_dDBZz8OE_oOOBLXw/edit?usp=drive_link)|
-| Conducting a security audit | [Google Cybersecurity](https://docs.google.com/document/d/1GRhn9WIvrZLRPXMo8miS0Tnk05dxqixvKfM8fJgv7jY/edit?usp=drive_link)|
-| Anakyzing network sturcture and security         | [Google Cybersecurity](https://docs.google.com/document/d/1e4iXkDRwGF1PByaKZ2btu0NmOgrkPZ16FluDwIdhrXA/edit?usp=drive_link)|
+| Conducting a security audit | [Google Cybersecurity](https://drive.google.com/drive/folders/1AczTTvQIegW4SD_z6zXNWm5jNOw_HJtp?usp=sharing)|
+| Analyzing network sturcture and security         | [Google Cybersecurity](https://docs.google.com/document/d/1e4iXkDRwGF1PByaKZ2btu0NmOgrkPZ16FluDwIdhrXA/edit?usp=drive_link)|
 | Using Linux commands to manage file permissions      | [Google Cybersecurity](https://docs.google.com/document/d/19X-IONySBPI0JHFQfw5drbM07hd0fasIxb0TAU0UMiE/edit?usp=drive_link&resourcekey=0-W37lxvjNO4S1QPtR1fP1Ig)|
 | Applying filters to SQL queries                  | [Google Cybersecurity](https://docs.google.com/document/d/1Ct85jDedlZiWaBz_dySq64g_ncn5Zsguh7QKVGrYcqo/edit?usp=drive_link&resourcekey=0-moiV1HaeA5YAIVcUZbQYlw)|
 | Identifying vulnerabilities for a small business | [Google Cybersecurity](https://docs.google.com/document/d/1kKpf-xN9hoiZVvSa6zeU8eM3oT1blc0Cc72NI3CC-HE/edit?usp=drive_link)|
@@ -48,5 +48,10 @@ My journey in technology and cybersecurity has fueled my passion for protecting 
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- tcpdump Security Incident Report
+- Network Security Risk Assessment
+- Implementing Least Privilege After A Data Leak
+- Applying the Risk Register Safeguarding Bank Operations
+- Escelating An Alert Ticket
+- Applying PASTA To An Application's Threat Model
+- Decrypting An Encrypted Message In Linux
